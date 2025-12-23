@@ -142,13 +142,4 @@ Built using:
 - **Streamlit**
 ```
 
-### Key Features of the README
-
-- **Structured Layout**: Clear sections for easy navigation.
-- **Markdown Formatting**: Proper use of headers, lists, and code blocks.
-- **Actionable Instructions**: Step-by-step setup and usage guidance.
-- **Professional Tone**: Clear and authoritative language throughout.
-
-Feel free to copy and paste this into your README.md file!
-
 
