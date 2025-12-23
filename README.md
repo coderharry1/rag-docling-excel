@@ -1,6 +1,3 @@
-Here's a polished and professional README.md file for your project, formatted in GitHub Markdown:
-
-
 # RAG with Docling — Enterprise-Ready Chat over Excel & Complex Documents
 
 This project implements an enterprise-style Retrieval-Augmented Generation (RAG) pipeline that enables natural-language querying over Excel files and other complex business documents.
